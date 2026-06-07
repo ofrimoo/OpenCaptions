@@ -1,3 +1,3 @@
-trying to create a version for mac intel
+Trying to create a version for mac intel.
 
-this is not working yet, do not use it.
+This is NOT working yet. do not use it.
